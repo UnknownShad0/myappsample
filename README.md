@@ -1,2 +1,2 @@
 # Myapp
-This is my fucking application
+This is my fkng application
